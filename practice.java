@@ -7,6 +7,19 @@ public class practice {
         double extra = 0.5;
         double areaOfTrapezpoid = A * B * height * extra;
         System.out.println(areaOfTrapezpoid);
+   
+        double seconds = 1678.0;
+        double simplifiedTime = seconds /= 60;
+        System.out.println(simplifiedTime);
+   
+        
+        
+   
+   
+   
+   
+   
+   
     }
 }
 
